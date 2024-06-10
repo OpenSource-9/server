@@ -19,30 +19,29 @@ OpenSource 9 프로젝트는 Three.js, React Three Fiber를 사용하여 3D 그�
 
 /<br/>
 |── components/
-│   ├── Game.jsx
-│   ├── Header.jsx
-│   └── Score.jsx
+│ ├── Game.jsx
+│ ├── Header.jsx
+│ └── Score.jsx
 |── pages/
-│   └── index.js
+│ └── index.js
 |── public/
-│   └── assets/
+│ └── assets/
 |── styles/
-│   └── globals.css
+│ └── globals.css
 |── backend/
-│   ├── controllers/
-│   │   └── user.controller.ts
-│   ├── modules/
-│   │   └── user.module.ts
-│   ├── repositories/
-│   │   └── user.repository.ts
-│   ├── services/
-│   │   └── user.service.ts
-│   └── entities/
-│       └── user.entity.ts
+│ ├── controllers/
+│ │ └── user.controller.ts
+│ ├── modules/
+│ │ └── user.module.ts
+│ ├── repositories/
+│ │ └── user.repository.ts
+│ ├── services/
+│ │ └── user.service.ts
+│ └── entities/
+│ └── user.entity.ts
 |── .gitignore
 |── package.json
 |── README.md
-
 
 ### 사용된 기술
 
