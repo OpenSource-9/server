@@ -56,6 +56,7 @@ OpenSource 9 프로젝트는 Three.js, React Three Fiber를 사용하여 3D 그�
 #### 백엔드:
 - AWS (Amazon Web Services)
 - SQL 데이터베이스
+- Nest.js
 
 ### 시작하기
 프로젝트를 시작하려면 다음 단계를 따르세요:
